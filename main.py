@@ -1,0 +1,1 @@
+print("Bu mening birinchi loyiham!!!")
